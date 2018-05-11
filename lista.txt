@@ -2,7 +2,6 @@
 ! Last modified: Never
 ! Expires: 1 days (update frequency)
 
-animeflv.net/*.jpg
-@@animeflv.net/ver/*
-@@animeflv.net/anime/*
-@@animeflv.net/browse*
+animeflv.net##img[style="float:left"]
+animeflv.net##img[style="float:right"]
+||www.taadd.com/*
