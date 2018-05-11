@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Checksum: /GY2gZy3hUsN4ZvcFQBKWQ
+! Version: 201805101341
+! Title: EasyList Spanish
+! Last modified: 10 May 2018 13:41 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+!
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/viewforum.php?f=103)
+! or via e-mail (easylistspanish@gmail.com).
+!
+!
