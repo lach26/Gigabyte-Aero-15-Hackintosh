@@ -1,4 +1,5 @@
-127.0.0.1 googleadservices.com
-127.0.0.1 pubmatic.com
-127.0.0.1 adclick.doubleclick.net
-127.0.0.1 yahoo.com
+0.0.0.0 googleadservices.com
+0.0.0.0 pubmatic.com
+0.0.0.0 adclick.doubleclick.net
+0.0.0.0 yahoo.com
+0.0.0.0 pornhub.com
