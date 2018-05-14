@@ -1,5 +1,5 @@
-googleadservices.com
-pubmatic.com
-adclick.doubleclick.net
-yahoo.com
-pornhub.com
+0.0.0.0 googleadservices.com
+0.0.0.0 pubmatic.com
+0.0.0.0 adclick.doubleclick.net
+0.0.0.0 yahoo.com
+0.0.0.0 pornhub.com
