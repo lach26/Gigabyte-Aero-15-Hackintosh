@@ -1,7 +1,5 @@
-! Title: Lan Personal ist
-! Last modified: Never
-! Expires: 1 days (update frequency)
-
-animeflv.net##img[style="float:left"]
-animeflv.net##img[style="float:right"]
-||www.taadd.com/*
+0.0.0.0 googleadservices.com
+0.0.0.0 pubmatic.com
+0.0.0.0 adclick.doubleclick.net
+0.0.0.0 yahoo.com
+0.0.0.0 pornhub.com
