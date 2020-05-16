@@ -1,5 +1,5 @@
 # Gigabyte Aero 15 Hackintosh
-| | **SPECS** |
+| **TYPE** | **SPECS** |
 | --------- | --------- |
 | CPU | 7700HQ |
 | RAM | 16GB on Slot2 |
