@@ -1,3 +1,8 @@
+[Guide OC (0.5.8)](https://dortania.github.io/vanilla-laptop-guide/)
+ 
+[Youtube Video for BIOS Config](https://www.youtube.com/watch?v=f8vSkpW4pUw&t=312s)
+---------------------------------------------
+
 # Gigabyte Aero 15 Hackintosh
 | **TYPE** | **SPECS** |
 | --------- | --------- |
