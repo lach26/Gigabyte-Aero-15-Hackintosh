@@ -1,6 +1,8 @@
 [Guide OC (0.5.8)](https://dortania.github.io/vanilla-laptop-guide/)
  
 [Youtube Video for BIOS Config](https://www.youtube.com/watch?v=f8vSkpW4pUw&t=312s)
+
+[EFI Files](https://github.com/lach26/Gigabyte-Aero-15-Hackintosh/tree/master/EFI%20OC%200.5.8%20Gigabyte%20Aero15)
 ---------------------------------------------
 
 # Gigabyte Aero 15 Hackintosh
