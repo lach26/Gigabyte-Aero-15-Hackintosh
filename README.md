@@ -8,7 +8,7 @@
 # Gigabyte Aero 15 Hackintosh
 | **TYPE** | **SPECS** |
 | --------- | --------- |
-| CPU | 7700HQ |
+| CPU | i7 7700HQ |
 | RAM | 16GB on Slot2 |
 | 1st Storage | Samsung NVME 512GB |
 | 2nd Storage | NVME 256GB on Secundary M.2 slot SATA interfice |
