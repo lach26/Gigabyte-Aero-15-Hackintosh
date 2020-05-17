@@ -5,7 +5,7 @@
 [EFI Files](https://github.com/lach26/Gigabyte-Aero-15-Hackintosh/tree/master/EFI%20OC%200.5.8%20Gigabyte%20Aero15)
 ---------------------------------------------
 
-# Gigabyte Aero 15 Hackintosh
+# Gigabyte Aero 15 Hackintosh (on proces)
 | **TYPE** | **SPECS** |
 | --------- | --------- |
 | CPU | i7 7700HQ |
